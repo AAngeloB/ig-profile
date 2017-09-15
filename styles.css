@@ -1,0 +1,39 @@
+body{
+	background-color: salmon;
+}
+
+#container{
+	width: 1080px;
+	text-align: center;
+	background-color: white;
+	border: 3px solid;
+	color: #DDDDDD;
+}
+
+#topbar{
+	height: 145px;
+	background-image: ;
+}
+
+#username{
+	text-align: center;
+}
+
+#follower-count{
+	height: 355px;
+	background-image: ;
+}
+
+#profile-picture{
+	height: 255px;
+	margin-top: -4cm;
+	margin-left: -15cm;
+}
+
+.ig-image{
+	
+
+#bottom-bar{
+	height: 135px;
+	background-image: ;
+}
