@@ -4,36 +4,49 @@ body{
 
 #container{
 	width: 1080px;
-	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: white;
-	border: 3px solid;
+	border-style: solid;
+	border-width: 3px;
 	color: #DDDDDD;
 }
 
 #topbar{
 	height: 145px;
-	background-image: ;
+	background-image: url(images/Top-bar.png);
+	background-repeat: no-repeat;
+
 }
 
 #username{
 	text-align: center;
+	font: arial;
 }
 
 #follower-count{
 	height: 355px;
-	background-image: ;
+	background-image: url(images/follower-count.png); ;
 }
 
 #profile-picture{
-	height: 255px;
-	margin-top: -4cm;
-	margin-left: -15cm;
+	height: 280px;
+	width: 280px;
+	border-radius: 50%;
+	margin-top: 40px;
+	margin-left: 46px;
 }
 
 .ig-image{
+	display: inline-block;
+	display: 50%;
+	width: 525px;
+	height: 300px
+
 	
+}
 
 #bottom-bar{
 	height: 135px;
-	background-image: ;
+	background-image: url(images/bottom-bar.png);
 }
